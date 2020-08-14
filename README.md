@@ -1,2 +1,2 @@
 # Statistical-Physics
-This repository contains homeworks for Statistical Physics
+This repository contains home works for Statistical Physics
